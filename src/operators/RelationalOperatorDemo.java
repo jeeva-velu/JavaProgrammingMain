@@ -18,5 +18,17 @@ public class RelationalOperatorDemo {
         double d1 = 0.0;
         double d2 = -0.0;
         boolean isSame4 = d1==d2;
+
+        int num6=10;
+        int num7=5;
+        boolean isNotEqual = num6!=num7;
+
+        int num8 = 8;
+        int num9 = 9;
+        boolean isGreater = num8>num9;
+        isGreater = num8>=num9;
+
+        boolean isLesser = num8<num9;
     }
+
 }
