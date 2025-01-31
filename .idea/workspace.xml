@@ -5,13 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="64bc6e86-3021-456b-a98c-f8f1c04df05f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/kotlinc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaProgramming.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,56 +35,58 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.AppendStringDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ArithmeticOperations.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.ArrayListDemo.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.ArrayListIteratorExample1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ArrayListIteratorExample2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ArrayListListIteratorExample3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ArrayVsArrayList.executor&quot;: &quot;Run&quot;,
-    &quot;Application.AssignmentOperatorDemo.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.AutoboxingUnboxingDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BoxingDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CachingMechanismsInBoxing.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ChangeCaseDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ClassObjectsDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ConvertValuesToString.executor&quot;: &quot;Run&quot;,
-    &quot;Application.JoiningStringsDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LinkedListDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LinkedListIteration.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LogicalOperatorsDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ParseDemo.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.PrintfMethodDemo.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.RelationalOperatorDemo.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.SearchingSubstring.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SortElementsInArrayList.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SortingLinkedList.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.StringConcatenationDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StringFormatDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StringImmutabilityDemo.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.StringMutableDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StringReplaceDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StringSplitDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StringTrimDemo.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.SubStringDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TextBlockDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.UnboxingDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Notification.DisplayName-DoNotAsk-Configure Kotlin&quot;: &quot;Configure Kotlin&quot;,
-    &quot;Notification.DoNotAsk-Configure Kotlin&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/jeeva/IdeaProjects/JavaProgramming&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/jeeva/IdeaProjects/JavaProgramming/src/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;settings.sync&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AppendStringDemo.executor": "Run",
+    "Application.ArithmeticOperations.executor": "Debug",
+    "Application.ArrayListDemo.executor": "Run",
+    "Application.ArrayListIteratorExample1.executor": "Run",
+    "Application.ArrayListIteratorExample2.executor": "Run",
+    "Application.ArrayListListIteratorExample3.executor": "Run",
+    "Application.ArrayVsArrayList.executor": "Run",
+    "Application.AssignmentOperatorDemo.executor": "Debug",
+    "Application.AutoboxingUnboxingDemo.executor": "Run",
+    "Application.BoxingDemo.executor": "Run",
+    "Application.CachingMechanismsInBoxing.executor": "Run",
+    "Application.ChangeCaseDemo.executor": "Run",
+    "Application.ClassObjectsDemo.executor": "Run",
+    "Application.ConvertValuesToString.executor": "Run",
+    "Application.HashMapDemo.executor": "Run",
+    "Application.JoiningStringsDemo.executor": "Run",
+    "Application.LinkedListDemo.executor": "Run",
+    "Application.LinkedListIteration.executor": "Run",
+    "Application.LogicalOperatorsDemo.executor": "Run",
+    "Application.Methods.executor": "Run",
+    "Application.ParseDemo.executor": "Debug",
+    "Application.PrintfMethodDemo.executor": "Debug",
+    "Application.RelationalOperatorDemo.executor": "Debug",
+    "Application.SearchingSubstring.executor": "Run",
+    "Application.SortElementsInArrayList.executor": "Run",
+    "Application.SortingLinkedList.executor": "Run",
+    "Application.StringConcatenationDemo.executor": "Run",
+    "Application.StringFormatDemo.executor": "Run",
+    "Application.StringImmutabilityDemo.executor": "Debug",
+    "Application.StringMutableDemo.executor": "Run",
+    "Application.StringReplaceDemo.executor": "Run",
+    "Application.StringSplitDemo.executor": "Run",
+    "Application.StringTrimDemo.executor": "Debug",
+    "Application.SubStringDemo.executor": "Run",
+    "Application.TextBlockDemo.executor": "Run",
+    "Application.UnboxingDemo.executor": "Run",
+    "Notification.DisplayName-DoNotAsk-Configure Kotlin": "Configure Kotlin",
+    "Notification.DoNotAsk-Configure Kotlin": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/jeeva/IdeaProjects/JavaProgrammingMain",
+    "onboarding.tips.debug.path": "C:/Users/jeeva/IdeaProjects/JavaProgramming/src/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "settings.sync"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
