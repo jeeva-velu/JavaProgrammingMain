@@ -52,6 +52,7 @@
     "Application.ClassObjectsDemo.executor": "Run",
     "Application.ConvertValuesToString.executor": "Run",
     "Application.HashMapDemo.executor": "Run",
+    "Application.HashMapIterationDemo.executor": "Run",
     "Application.JoiningStringsDemo.executor": "Run",
     "Application.LinkedListDemo.executor": "Run",
     "Application.LinkedListIteration.executor": "Run",
