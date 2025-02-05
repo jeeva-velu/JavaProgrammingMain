@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="64bc6e86-3021-456b-a98c-f8f1c04df05f" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Methods.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +40,7 @@
   "keyToString": {
     "Application.AppendStringDemo.executor": "Run",
     "Application.ArithmeticOperations.executor": "Debug",
+    "Application.ArrayIndexOutOfBoundsExceptionDemo.executor": "Run",
     "Application.ArrayListDemo.executor": "Run",
     "Application.ArrayListIteratorExample1.executor": "Run",
     "Application.ArrayListIteratorExample2.executor": "Run",
@@ -51,13 +53,16 @@
     "Application.ChangeCaseDemo.executor": "Run",
     "Application.ClassObjectsDemo.executor": "Run",
     "Application.ConvertValuesToString.executor": "Run",
+    "Application.ExceptionDemo.executor": "Debug",
     "Application.HashMapDemo.executor": "Run",
+    "Application.HashMapExample.executor": "Run",
     "Application.HashMapIterationDemo.executor": "Run",
     "Application.HashSetDemo.executor": "Run",
     "Application.HashSetIterationDemo.executor": "Run",
     "Application.ImmutableMapDemo.executor": "Debug",
     "Application.JoiningStringsDemo.executor": "Run",
     "Application.LinkedHashMapDemo.executor": "Run",
+    "Application.LinkedHashSetDemo.executor": "Run",
     "Application.LinkedListDemo.executor": "Run",
     "Application.LinkedListIteration.executor": "Run",
     "Application.LogicalOperatorsDemo.executor": "Run",
@@ -66,6 +71,7 @@
     "Application.PrintfMethodDemo.executor": "Debug",
     "Application.RelationalOperatorDemo.executor": "Debug",
     "Application.SearchingSubstring.executor": "Run",
+    "Application.SetOperationsDemo.executor": "Run",
     "Application.SortElementsInArrayList.executor": "Run",
     "Application.SortingLinkedList.executor": "Run",
     "Application.StringConcatenationDemo.executor": "Run",
@@ -78,6 +84,9 @@
     "Application.SubStringDemo.executor": "Run",
     "Application.TextBlockDemo.executor": "Run",
     "Application.TreeMapDemo.executor": "Debug",
+    "Application.TreeSetDemo.executor": "Run",
+    "Application.TryCatchBlockDemo.executor": "Run",
+    "Application.TryCatchBlockDemo2.executor": "Debug",
     "Application.UnboxingDemo.executor": "Run",
     "Notification.DisplayName-DoNotAsk-Configure Kotlin": "Configure Kotlin",
     "Notification.DoNotAsk-Configure Kotlin": "true",
@@ -93,6 +102,40 @@
     "settings.editor.selected.configurable": "settings.sync"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.HashMapExample">
+    <configuration name="HashMapExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collections.HashMapExample" />
+      <module name="JavaProgrammingMain" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="collections.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TryCatchBlockDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exceptionhandling.TryCatchBlockDemo2" />
+      <module name="JavaProgrammingMain" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exceptionhandling.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HashMapExample" />
+        <item itemvalue="Application.TryCatchBlockDemo2" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -126,6 +169,11 @@
           <url>file://$PROJECT_DIR$/src/operators/LogicalOperatorsDemo.java</url>
           <line>56</line>
           <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/exceptionhandling/TryCatchBlockDemo2.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="13" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
