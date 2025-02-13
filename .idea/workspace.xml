@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="64bc6e86-3021-456b-a98c-f8f1c04df05f" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/functionalprogrammingusinglambdaexpression/LambdaExpressionDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/functionalprogrammingusinglambdaexpression/LambdaExpressionDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +39,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.AnonymousClassDemo.executor": "Run",
     "Application.AppendStringDemo.executor": "Run",
     "Application.ArithmeticOperations.executor": "Debug",
     "Application.ArrayIndexOutOfBoundsExceptionDemo.executor": "Run",
@@ -63,6 +65,7 @@
     "Application.HashSetIterationDemo.executor": "Run",
     "Application.ImmutableMapDemo.executor": "Debug",
     "Application.JoiningStringsDemo.executor": "Run",
+    "Application.LambdaExpression2.executor": "Run",
     "Application.LambdaExpressionDemo.executor": "Run",
     "Application.LinkedHashMapDemo.executor": "Run",
     "Application.LinkedHashSetDemo.executor": "Run",
