@@ -10,7 +10,7 @@ public class PredicateDemo {
         System.out.println(check);
         System.out.println(isEven.test(13));
 
-        Predicate<Integer> numGreater = num -> num>50;  //U can also don't want to mention paranthesis for single input parameter.
+        Predicate<Integer> numGreater = num -> num>50;  //U can also don't want to mention parenthesis for single input parameter.
         boolean isGreater = numGreater.test(53);
         System.out.println(isGreater);
 

@@ -2,7 +2,7 @@ package arrays;
 
 
 class Calculator{
-    public int Addition(int a,int b){
+    public int addition(int a,int b){
         int result = a+b;
         return result;
     }
@@ -15,7 +15,7 @@ public class ClassObjectsDemo {
         int a = 10;
         int b = 20;
         Calculator calc = new Calculator();
-        int result = calc.Addition(a,b);
+        int result = calc.addition(a,b);
         System.out.println(result);
     }
 }
