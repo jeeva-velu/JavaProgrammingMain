@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="64bc6e86-3021-456b-a98c-f8f1c04df05f" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oops/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oops/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/functionalprogrammingusinglambdaexpression/LambdaExpressionDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/functionalprogrammingusinglambdaexpression/LambdaExpressionDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,8 +18,8 @@
       <list>
         <option value="Kotlin Class" />
         <option value="module-info" />
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -114,7 +114,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;settings.sync&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.HashMapExample">
+  <component name="RunManager">
     <configuration name="HashMapExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="collections.HashMapExample" />
       <module name="JavaProgrammingMain" />

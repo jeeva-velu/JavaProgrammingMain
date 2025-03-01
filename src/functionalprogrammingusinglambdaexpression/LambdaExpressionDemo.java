@@ -7,10 +7,10 @@ public class LambdaExpressionDemo {
         Hello hello1 = () -> System.out.println("Hello World"); //Assigning the lambda exp to the variable of datatype Hello...
         process(hello);     //Inside the process() method i am passing the business logic of hello datatype
         process(hello1);
-        process(() -> System.out.println("Hi"));
+        process(() -> System.out.println("Hi"));        //Approach 2-Directly passing the lambda expression...
     }
 
     public  static void process(Hello h){           //Creating the datatype of Hello interface...
-        h.sayHello();                               //Invoking the sayHello() method from Hello interface using the datatype..
+        h.sayHello();                               //Invoking the sayHello() method from Hello interface using the variable..
     }
 }
