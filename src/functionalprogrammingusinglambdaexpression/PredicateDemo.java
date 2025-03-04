@@ -1,6 +1,9 @@
 package functionalprogrammingusinglambdaexpression;
 
+import java.util.Arrays;
+import java.util.List;
 import java.util.function.Predicate;
+import java.util.stream.Collectors;
 
 public class PredicateDemo {
     public static void main(String[] args) {
@@ -14,7 +17,7 @@ public class PredicateDemo {
         boolean isGreater = numGreater.test(53);
         System.out.println(isGreater);
 
-        //To check the number is even and the number is greater than 50...
+        //To check the number is even and the number is greater than 50...Chaining your multiple predicate conditions using and default method in the Predicate.
 
         Predicate<Integer> isEvenAndIsGreaterThan50 = (num) -> num%2==0 & num>50;
         boolean checkEvenAndGreater = isEvenAndIsGreaterThan50.test(55);
@@ -43,5 +46,12 @@ public class PredicateDemo {
 
         Predicate<String> isEqual = Predicate.isEqual("Jeeva");
         System.out.println(isEqual.test("Harsha"));
+
+        //Using Predicate in real-time example...
+
+        List<Integer> list = Arrays.asList(1,2,3,4,5,6,7,8,9,10);
+        //To filter the even numbers from the list...
+        List<Integer> evenList = list.stream().filter(isEven).collect(Collectors.toList());  //Collecting a list of new elements in a new list.
+        System.out.println(evenList);
     }
 }
