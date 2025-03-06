@@ -49,6 +49,7 @@
     "Application.ArrayVsArrayList.executor": "Run",
     "Application.AssignmentOperatorDemo.executor": "Debug",
     "Application.AutoboxingUnboxingDemo.executor": "Run",
+    "Application.BiFunctionsDemo.executor": "Run",
     "Application.BoxingDemo.executor": "Run",
     "Application.CachingMechanismsInBoxing.executor": "Run",
     "Application.ChangeCaseDemo.executor": "Run",
