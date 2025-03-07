@@ -78,6 +78,7 @@
     "Application.MultipleCatchBlocks.executor": "Run",
     "Application.ParseDemo.executor": "Debug",
     "Application.PredicateDemo.executor": "Run",
+    "Application.PrimitiveFunctionsDemo.executor": "Run",
     "Application.PrintfMethodDemo.executor": "Debug",
     "Application.RelationalOperatorDemo.executor": "Debug",
     "Application.SearchingSubstring.executor": "Run",
