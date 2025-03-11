@@ -90,6 +90,7 @@
     "Application.SortElementsInArrayList.executor": "Run",
     "Application.SortingLinkedList.executor": "Run",
     "Application.StaticMethodReference.executor": "Run",
+    "Application.StreamCreationDemo.executor": "Run",
     "Application.StringConcatenationDemo.executor": "Run",
     "Application.StringFormatDemo.executor": "Run",
     "Application.StringImmutabilityDemo.executor": "Debug",
