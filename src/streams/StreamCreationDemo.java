@@ -30,7 +30,7 @@ public class StreamCreationDemo {
 
         // Another approach for creating stream...
 
-        Stream<String> inputStream = Stream.of("Jeeva","Harsha","Neema");
+        Stream<String> inputStream = Stream.of("Jeeva", "Harsha", "Neema");
         inputStream.forEach(System.out::println);
 
         //We also have parallelStream method which iterates the elements in the Collection object parallel to increase performance.
@@ -41,7 +41,7 @@ public class StreamCreationDemo {
 
         //Creating a Stream object using an Array object.
 
-        String[] arrayOfWords = {"Computer","Science"};
+        String[] arrayOfWords = {"Computer", "Science"};
         Stream<String> streamOfWords = Arrays.stream(arrayOfWords);
         streamOfWords.forEach(words -> System.out.println(words));
 
