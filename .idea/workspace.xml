@@ -90,6 +90,7 @@
     "Application.SortElementsInArrayList.executor": "Run",
     "Application.SortingLinkedList.executor": "Run",
     "Application.StaticMethodReference.executor": "Run",
+    "Application.StreamCollectOperationsDemo.executor": "Run",
     "Application.StreamCreationDemo.executor": "Run",
     "Application.StreamFilterOperationDemo.executor": "Run",
     "Application.StreamFlatMapOperationDemo.executor": "Run",
