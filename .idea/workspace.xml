@@ -80,6 +80,7 @@
     "Application.LogicalOperatorsDemo.executor": "Run",
     "Application.Methods.executor": "Run",
     "Application.MultipleCatchBlocks.executor": "Run",
+    "Application.ParallelStreamDemo.executor": "Debug",
     "Application.ParseDemo.executor": "Debug",
     "Application.PredicateDemo.executor": "Run",
     "Application.PrimitiveFunctionsDemo.executor": "Run",
