@@ -93,9 +93,12 @@
     "Application.StreamCollectOperationsDemo.executor": "Run",
     "Application.StreamCreationDemo.executor": "Run",
     "Application.StreamFilterOperationDemo.executor": "Run",
+    "Application.StreamFindMatchOperationsDemo.executor": "Run",
     "Application.StreamFlatMapOperationDemo.executor": "Run",
+    "Application.StreamGroupingByDemo.executor": "Run",
     "Application.StreamLimitOperationDemo.executor": "Run",
     "Application.StreamMapOperationDemo.executor": "Run",
+    "Application.StreamPartitioningDemo.executor": "Run",
     "Application.StreamReduceOperationDemo.executor": "Run",
     "Application.StreamSkipOperationDemo.executor": "Run",
     "Application.StreamTraverseDemo.executor": "Run",
@@ -133,40 +136,6 @@
     "settings.editor.selected.configurable": "settings.sync"
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration name="HashMapExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collections.HashMapExample" />
-      <module name="JavaProgrammingMain" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="collections.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TryCatchBlockDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exceptionhandling.TryCatchBlockDemo2" />
-      <module name="JavaProgrammingMain" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="exceptionhandling.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.HashMapExample" />
-        <item itemvalue="Application.TryCatchBlockDemo2" />
-      </list>
-    </recent_temporary>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
