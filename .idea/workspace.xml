@@ -84,6 +84,7 @@
     "Application.MultipleCatchBlocks.executor": "Run",
     "Application.ParallelStreamDemo.executor": "Run",
     "Application.ParseDemo.executor": "Debug",
+    "Application.Pattern1.executor": "Run",
     "Application.PredicateDemo.executor": "Run",
     "Application.PrimitiveFunctionsDemo.executor": "Run",
     "Application.PrintfMethodDemo.executor": "Debug",
