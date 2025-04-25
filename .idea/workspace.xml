@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="64bc6e86-3021-456b-a98c-f8f1c04df05f" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/patterns/Pattern1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/patterns/Pattern1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,6 +86,9 @@
     "Application.ParallelStreamDemo.executor": "Run",
     "Application.ParseDemo.executor": "Debug",
     "Application.Pattern1.executor": "Run",
+    "Application.Pattern2.executor": "Run",
+    "Application.Pattern3.executor": "Run",
+    "Application.Pattern4.executor": "Run",
     "Application.PredicateDemo.executor": "Run",
     "Application.PrimitiveFunctionsDemo.executor": "Run",
     "Application.PrintfMethodDemo.executor": "Debug",
